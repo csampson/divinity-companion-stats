@@ -19,7 +19,9 @@ add equipmentgroup
 add equipment entry "CONT_Backpack_A"
 new equipment "Henchman_Jahan_Mage"
 add equipmentgroup 
-add equipment entry "WPN_Quarterstaff_Henchman_Jahan"
+add equipment entry "WPN_Wand_Air"
+add equipmentgroup 
+add equipment entry "WPN_Wand_Air"
 add equipmentgroup 
 add equipment entry "ARM_Cloth_Torso_Henchman_Jahan"
 add equipmentgroup 

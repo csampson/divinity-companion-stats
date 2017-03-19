@@ -8,7 +8,40 @@ All companions start at Level 1, ready to be leveled up.
 Since the characters start at Level 1, I allocated 5 attribute points total for each companion.
 
 ### Jahan
-TBD
+
+#### Attributes
+
+Name | Score
+--- | ---
+Strength     | 5
+Dexterity    | 5
+Intelligence | **8**
+Constitution | **6**
+Speed        | **6**
+Perception   | 5
+
+#### Abilities
+
+Name | Score
+--- | ---
+Dual Wielding | 2
+Aerotheurge | 1
+Hydrosophist | 1
+
+#### Skills
+
+- Shocking Touch
+- Blitz Bolt
+- Teleport
+- Thunder Jump
+- Rain
+- Regeneration
+
+### Equipment
+
+- Air Wand (x2)
+
+(The rest is the same as vanilla)
 
 ### Madora
 
