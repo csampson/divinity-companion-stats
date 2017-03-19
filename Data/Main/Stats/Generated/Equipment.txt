@@ -1,7 +1,9 @@
 new equipment "Henchman_Madoc_Paladin"
 add equipmentgroup 
-add equipment entry "WPN_DecorationSword_Henchman_Madoc"
+add equipment entry "WPN_Sword_A_Training_Sword"
 add equipmentgroup 
+add equipment entry "WPN_SourceHunter_Shield"
+add equipmentgroup
 add equipment entry "ARM_Leather_Torso_Henchman_Madoc"
 add equipmentgroup 
 add equipment entry "ARM_Cloth_Boots_Henchman_Madoc"

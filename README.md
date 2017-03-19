@@ -41,3 +41,10 @@ BodyBuilding | 1
 - Encourage
 - Melee Power Stance
 - Melee Defense Stance
+
+### Equipment
+
+- Training Sword
+- Source Hunter Shield
+
+(The rest is the same as vanilla)
