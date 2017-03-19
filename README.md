@@ -31,3 +31,13 @@ Man-at-Arms | 1
 Single-handed | 1
 Shield Specialist | 1
 BodyBuilding | 1
+
+
+#### Skills
+
+- Battering Ram
+- Crushing Fist
+- Cure Wounds
+- Encourage
+- Melee Power Stance
+- Melee Defense Stance
